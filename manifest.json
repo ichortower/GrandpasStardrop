@@ -6,6 +6,6 @@
   "UniqueID": "ichortower.GrandpasStardrop",
   "EntryDll": "GrandpasStardrop.dll",
   "MinimumApiVersion": "4.1.0",
-  "UpdateKeys": ["Nexus:29637", "GitHub:ichortower/ModName"],
+  "UpdateKeys": ["Nexus:29637", "GitHub:ichortower/GrandpasStardrop"],
   "Dependencies": []
 }
