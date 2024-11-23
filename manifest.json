@@ -1,0 +1,11 @@
+{
+  "Name": "Grandpa's Stardrop",
+  "Author": "ichortower",
+  "Description": "Makes the spouse stardrop obtainable from Grandpa: no spouse necessary.",
+  "Version": "1.0.0",
+  "UniqueID": "ichortower.GrandpasStardrop",
+  "EntryDll": "GrandpasStardrop.dll",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": ["Nexus:29637", "GitHub:ichortower/ModName"],
+  "Dependencies": []
+}
